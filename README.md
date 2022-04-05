@@ -11,3 +11,6 @@ copy that onto your local machine
 >>> python3 filter-nodes.py
 ````
 this will take around 1 hr, and it will add all the nodes to the database with region and country
+
+
+Is is already synced at block 55590, so if you want to just use the data already here than you can.
