@@ -1,0 +1,21 @@
+{
+  "EU": [
+    "Belgium",
+    "Czechia",
+    "Finland",
+    "France",
+    "Germany",
+    "Poland",
+    "Switzerland"
+  ],
+  "US": [
+    "United States"
+  ],
+  "Asia": [
+    "China",
+    "Hong Kong",
+    "India",
+    "Singapore",
+    "Japan"
+  ]
+}
